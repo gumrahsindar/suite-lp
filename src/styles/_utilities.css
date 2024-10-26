@@ -3,6 +3,7 @@
   font-weight: var(--fw-bold);
   line-height: var(--lh-78);
   letter-spacing: -1px;
+  color: var(--clr-dark-blue);
 }
 
 .title-xl-regular {
@@ -10,6 +11,7 @@
   font-weight: var(--fw-regular);
   line-height: var(--lh-78);
   letter-spacing: -1px;
+  color: var(--clr-dark-blue);
 }
 
 .title-lg-bold {
@@ -37,7 +39,7 @@
   font-size: clamp(0.875rem, 0.831rem + 0.188vw, 1rem);
   font-weight: var(--fw-bold);
   line-height: var(--lh-26);
-  letter-spacing: -2.5px;
+  letter-spacing: 2.5px;
 }
 
 .text-body {
