@@ -7,7 +7,13 @@
   <main>
     <slot name="main"></slot>
   </main>
-  <footer>
+  <footer id="footer">
     <slot name="footer"></slot>
   </footer>
 </template>
+
+<style>
+#footer {
+  position: relative;
+}
+</style>
