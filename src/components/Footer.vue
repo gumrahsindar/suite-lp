@@ -36,8 +36,13 @@ import Logo from './Logo.vue'
 .footer-layout {
   padding-bottom: 72px;
   display: flex;
+  gap: 40px;
   justify-content: space-between;
   align-items: center;
+
+  @media (max-width: 40rem) {
+    flex-direction: column;
+  }
   & .icons-wrapper {
     display: flex;
     gap: 28px;
