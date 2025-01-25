@@ -1,4 +1,4 @@
-# Equalizer Landing Page
+# Suite Landing Page
 
 ## 🚀 Features
 
