@@ -115,7 +115,7 @@ import Button from './Button.vue'
 
     & .text-body {
       margin-block: 20px 32px;
-      max-width: 35ch;
+      max-width: 37ch;
       text-wrap: pretty;
 
       @media (max-width: 64rem) {

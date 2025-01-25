@@ -4,6 +4,10 @@
   line-height: var(--lh-78);
   letter-spacing: -1px;
   color: var(--clr-dark-blue);
+
+  @media (max-width: 40rem) {
+    line-height: 1.2;
+  }
 }
 
 .title-xl-regular {
@@ -12,6 +16,10 @@
   line-height: var(--lh-78);
   letter-spacing: -1px;
   color: var(--clr-dark-blue);
+
+  @media (max-width: 40rem) {
+    line-height: 1.2;
+  }
 }
 
 .title-lg-bold {
